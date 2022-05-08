@@ -6,4 +6,6 @@ Check the Files made in vue in the directory "pages"
 
 preview to experiment
 
-https://mihaidev-cloud.github.io/
+(☞ﾟヮﾟ)☞ https://mihaidev-cloud.github.io/ ☜(ﾟヮﾟ☜)
+
+(☞ﾟヮﾟ)☞ https://mihaidev-cloud.rest/ // custom domain ☜(ﾟヮﾟ☜)
