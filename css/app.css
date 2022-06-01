@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+body {
+    background-color: #181a1b;
+    color: white;
+    text-transform: capitalize;
+}
+
+
+.card {
+    background-color: #1d1f21;
+    border: 1px solid #262626;
+    color: white;
+}
