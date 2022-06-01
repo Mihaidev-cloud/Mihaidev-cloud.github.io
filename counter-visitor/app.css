@@ -1,0 +1,40 @@
+body {
+    background: rgb(226, 225, 225);
+    color: rgb(49, 140, 252);
+        font-weight: bold;
+        font-family: monospace;
+    }
+    
+    .counter {
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      position: absolute;
+     background: rgb(255,255,255); /* For browsers that do not support gradients */
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(214,215,215,1) 100%);
+      padding: 48px;
+      border-radius: 2rem;
+      
+      box-shadow:
+      2.8px 2.8px 2.2px rgba(0, 0, 0, 0.02),
+      6.7px 6.7px 5.3px rgba(0, 0, 0, 0.028),
+      12.5px 12.5px 10px rgba(0, 0, 0, 0.035),
+      22.3px 22.3px 17.9px rgba(0, 0, 0, 0.042),
+      41.8px 41.8px 33.4px rgba(0, 0, 0, 0.05),
+      100px 100px 80px rgba(0, 0, 0, 0.07)
+    ;
+    }
+    
+    a {
+      color: rgb(49, 140, 252);
+      transition: 0.3s;
+     
+    }
+    a:hover {
+     color: rgb(36, 104, 187);
+    }
+    
+    #visits {
+      font-size: 2rem;
+       border: 2px solid rgb(49, 140, 252);
+    }
